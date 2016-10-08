@@ -101,7 +101,7 @@ miApp.controller('controlAlta', function($scope, $http, $state, FileUploader) {
 //inicio las variables
   $scope.uploader=new FileUploader({url:'PHP/nexo.php'});
   $scope.persona={};
-  $scope.persona.nombre= "natalia2" ;
+  $scope.persona.nombre= "natalia22" ;
   $scope.persona.dni= "12312312" ;
   $scope.persona.apellido= "natalia" ;
   $scope.persona.foto="pordefecto.png";
